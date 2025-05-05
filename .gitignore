@@ -32,6 +32,4 @@ build/
 ### VS Code ###
 .vscode/
 
-### Directories ###
-# Ignore all directories named "target"
-images_doc
+
